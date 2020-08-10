@@ -1,0 +1,406 @@
+soapy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+currently:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+turnup:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bomber:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+abatement:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+fixe:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+abbas:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+fiz:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+menus:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+flak:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cuter:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+merengue:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ratios:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bookful:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+books:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+pacifico:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sokol:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+booths:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+abort:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+flatten:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+flattered:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+pads:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+daff:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+solid:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+absentia:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+solidus:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+paybox:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+solvers:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pais:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+daks:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+payt:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+reals:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+accademia:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+twos:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+accelerator:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.create', 'storage.objects.get', 'storage.objects.list']}
+bounce:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bounceback:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+dand:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+flocs:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sooper:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+palettes:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+rebooting:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+flowchart:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ult:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+ultra:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+datcha:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+mezereon:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+indent:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+soundtrack:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+braincap:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+reck:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+foal:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sov:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+brandify:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+brash:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+microcytosis:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+folklorist:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+dealer:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bravi:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+panoramas:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+panos:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+breakoff:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+debts:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+microtonal:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+adamant:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+adapter:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+spectate:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+redeem:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bricktop:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+inflect:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+adead:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+decking:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+redirecting:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bringers:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+brique:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+milia:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+parapet:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+injections:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+spindle:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bronco:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+innominatum:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+spinneret:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+parity:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+minder:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+mindfulness:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+mindlessly:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+fortune-telling:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+reface:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+forwarder:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+advertizer:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+referendum:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+refixed:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+deis:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bsh:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+aether:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+regressor:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+insurgent:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+spoons:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+integrations:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+freaks:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+patchboard:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+spotlights:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+afterthought:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+patents:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+bulky:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+demitasse:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+agent:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bumblebee:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+patta:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+bunco:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pavy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+frigid:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+agos:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dentists:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+relic:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+peaks:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ahem:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+frontrunner:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+srac:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+remediate:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+peculiar:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+aion:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+airconditioning:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+airings:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+inters:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+remotely:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+airspaces:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+misused:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+buzzwords:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+repay:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+repairing:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+deserts:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+cacti:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+mobs:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+moder:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+stateless:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+furore:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+furry:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+repost:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+cairn:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+invt:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+required:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+moment:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+caliber:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+calibre:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+alima:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+caliper:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+yoop:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+reserves:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dhanush:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+unfinished:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ironic:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+responder:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dialup:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+canard:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+garbages:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cank:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cannabidiol:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+stocky:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+canopy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+retort:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+alum:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+gator:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+morphia:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+gaun:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+stoplight:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+digits:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+ister:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+caprate:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+storybooks:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+stories:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+digs:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+capsule:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+reveler:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+captioning:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+reverie:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+capuli:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+straddle:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+motherboard:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+reviewer:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+revised:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+revivalist:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+revoice:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+amygdala:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dyne:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dinero:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+generally:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+stream:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+rhapsody:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+mpb:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+mtge:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+mudslide:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+muggy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+jant:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+rial:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+carpets:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+jardin:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+germy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cartes:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cartful:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+multiplier:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+jekyll:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+ghis:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sub:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+anaphylaxis:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+giffgaff:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+gifted:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+jewelry:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+photog:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+photogram:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+musculoskeletal:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+gyms:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+music:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+jitendra:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+roaded:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+giraffe:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+muzz:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+joom:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+caum:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+submarine:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+anhinga:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+glacier:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+animable:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+displaying:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+naib:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+gladly:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+picturize:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+judicial:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+dissertations:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+announcements:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pyic:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+gliffy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+distillate:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+substrate:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+nasal:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+globate:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+centaur:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+kabob:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+kafila:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+antelope:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+glowing:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+subzone:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+diversified:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+glue:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+nawab:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pinko:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+pinsetter:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+roundabout:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sugary:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+certified:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+rowing:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pyre:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+katana:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+goldcrest:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pyro:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+dolphinfish:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+chandu:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+gopher:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+runer:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+keps:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+kept:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+sunshade:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dopy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+runtime:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+gosh:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+gotra:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+superbrain:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+playable:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+antistrophe:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+supercop:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+charts:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+khud:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+planets:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+graduations:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sabs:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+chatterbox:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+grahams:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+anxiety:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+newly:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+newline:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+grama:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dout:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+grame:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+newsrooms:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+sadist:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cheers:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+supermom:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sagas:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+untap:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+drains:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+nightcrawlers:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+saj:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+salary:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+kist:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+kitchens:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+drey:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dress-up:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+plotting:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+applause:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.list']}
+ninut:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+drinks:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+chilled:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+approach:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+salvor:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.update']}
+surfaces:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+approve:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+surfing:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+unusual:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+drools:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dropped:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+grip:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pnce:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+koan:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+chiropractors:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+drumline:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+grizzly:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+nogs:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+noil:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+chits:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+groover:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+duan:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sanitary:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.create', 'storage.objects.get', 'storage.objects.list']}
+ducklings:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+duels:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+chocolatey:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+choices:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+archetype:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+updater:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pokies:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sweetie:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+sarees:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+polestar:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+arcus:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list']}
+uprose:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+upsy:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+swings:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.create', 'storage.objects.get', 'storage.objects.list']}
+nonce:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+switchboard:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+satisfaction:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+satisfactory:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+argan:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+labelling:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+dwelling:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+scaffold:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+chunder:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+armors:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+scaleup:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ebbs:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ush:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+arride:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.get', 'storage.objects.list']}
+take:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+takeover:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+echocardiogram:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+arrowhead:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ecoles:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+haen:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cyke:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+artichoke:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+tamanoir:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+scheduled:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+schematics:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+artisans:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+artistry:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get']}
+hayseed:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+haystack:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+hait:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+landscapers:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+valet:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+schnitzel:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+vamos:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+poses:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+asians:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+postbox:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+scissors:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+cires:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+posting:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+lateral:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+scorekeeper:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+assure:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+vein:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+tawn:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+scrapers:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+elections:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.list']}
+cladding:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+astr:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+tch:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+handsome:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+vendors:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pows:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+pptn:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+ventrally:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+teatime:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+leagues:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+prank:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+prau:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+attached:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+harmonica:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+elod:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+verruca:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+leer:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.delete', 'storage.buckets.get', 'storage.buckets.getIamPolicy', 'storage.buckets.setIamPolicy', 'storage.buckets.update', 'storage.objects.create', 'storage.objects.delete', 'storage.objects.get', 'storage.objects.list', 'storage.objects.update']}
+attorneys:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.buckets.get', 'storage.objects.list']}
+teleplay:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+teleportation:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+prebid:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+seatbelt:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
+teleview:{'kind': 'storage#testIamPermissionsResponse', 'permissions': ['storage.objects.get', 'storage.objects.list']}
