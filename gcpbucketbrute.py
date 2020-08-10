@@ -202,7 +202,7 @@ class Worker(multiprocessing.Process):
         # If authenticated, both auth and unauth will be made because results could be different
         # If not authenticated, then just unauth will go
         unauthenticated_permissions = requests.get('https://www.googleapis.com/storage/v1/b/{}/iam/testPermissions?permissions=storage.buckets.delete&permissions=storage.buckets.get&permissions=storage.buckets.getIamPolicy&permissions=storage.buckets.setIamPolicy&permissions=storage.buckets.update&permissions=storage.objects.create&permissions=storage.objects.delete&permissions=storage.objects.get&permissions=storage.objects.list&permissions=storage.objects.update'.format(bucket_name)).json()
-
+        '''
         if unauthenticated_permissions.get('permissions'):
             self.print('\n    UNAUTHENTICATED ACCESS ALLOWED: {}'.format(bucket_name))
             if 'storage.buckets.setIamPolicy' in unauthenticated_permissions['permissions']:
@@ -215,10 +215,13 @@ class Worker(multiprocessing.Process):
                 self.print('        - UNAUTHENTICATED WRITABLE (storage.objects.create, storage.objects.delete, and/or storage.objects.update)')
             self.print('        - ALL PERMISSIONS:')
             self.print(textwrap.indent('{}\n'.format(json.dumps(unauthenticated_permissions['permissions'], indent=4)), '            '))
-
         if not (authenticated_permissions or unauthenticated_permissions.get('permissions')):
             self.print('    EXISTS: {}'.format(bucket_name))
-
+        '''
+        if (unauthenticated_permissions.get('permissions')):
+            self.print("{}:{}".format(bucket_name, unauthenticated_permissions))
+        if not (authenticated_permissions or unauthenticated_permissions.get('permissions')):
+            self.print('{}:'.format(bucket_name))
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='This script will generate a list of permutations from ./permutations.txt using the keyword passed into the -k/--keyword argument. Then it will attempt to enumerate Google Storage buckets with those names without any authentication. If a bucket is found to be listable, it will be reported (buckets that allow access to "allUsers"). If a bucket is found but it is not listable, it will use the default "gcloud" CLI credentials to try and list the bucket. If the bucket is listable with credentials it will be reported (buckets that allow access to "allAuthenticatedUsers"), otherwise it will reported as existing, but unlistable.')
